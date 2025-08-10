@@ -13,7 +13,7 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ---
 
-## Latest Highlights
+## 🔥Latest Highlights
 
 - 🔭 Internship: **Garuda Aerospace Pvt. Ltd.** — Drone Technology: UAV electronics, GPS systems, sensor integration, pre/post-flight checks.
 - 🚀 Internship: **Indian Institute of Space Science and Technology** — Orbital Mechanics & GMAT: Satellite trajectory design, orbital transfers, CubeSat mission analysis.
@@ -21,7 +21,7 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ---
 
-## Featured Projects
+## 🧪Featured Projects
 
 | Project | Description |
 |---|---|
@@ -31,7 +31,7 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ---
 
-## Skills & Stack
+## 🧠Skills & Stack
 
 - **Languages:** Python, C++, C
 - **AI/ML:** TensorFlow, Keras, OpenCV
@@ -42,7 +42,7 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ---
 
-## Certifications & Training
+## 🎓Certifications & Training
 
 - 📜 Workshop — Data Mining Techniques (IIT Roorkee)
 - 📜 Drone Technology — Garuda Aerospace
@@ -51,14 +51,14 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ---
 
-## GitHub Stats
+## 📊GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdrafeakhtar&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdrafeakhtar&layout=compact)
 
 ---
 
-## Roadmap / Goals
+## 🧭Roadmap / Goals
 
 - Build a production-ready AI/ML security tool
 - Contribute to open-source drone navigation libraries
@@ -66,7 +66,7 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ---
 
-## Let's Connect
+## 🌐Let's Connect
 
 - **Email:** [mdrafeakhtar@gmail.com](mailto:mdrafeakhtar@gmail.com)  
 - **LinkedIn:** [Md Rafe Akhtar](https://www.linkedin.com/in/md-rafe-akhtar/)  
