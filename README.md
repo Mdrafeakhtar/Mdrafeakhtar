@@ -56,10 +56,10 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 ---
 
 ## 📊GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdrafeakhtar&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdrafeakhtar&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdrafeakhtar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdrafeakhtar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ## 🧭Roadmap / Goals
