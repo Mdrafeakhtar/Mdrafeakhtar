@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Md Rafe Ahtar 👋</h1>
-<p align="center"><strong>Electronics & Communication Engineering Student 🛡️ | Drone & Space Enthusiast 🐞 | GATE 2026 Aspirant 🎯</strong></p>
+<p align="center"><strong> 🎓Electronics & Communication Engineering Student  | 🛸 Drone & Space Enthusiast  |  🎯GATE 2026 Aspirant </strong></p>
 
 <p align="center">
   <a href="https://github.com/Mdrafeakhtar"><img src="https://img.shields.io/github/followers/Mdrafeakhtar?label=GitHub&style=social" /></a>
@@ -7,6 +7,7 @@
   <a href="https://leetcode.com/u/mdrafeakhtar/"><img src="https://img.shields.io/badge/Leetcode-Red?style=social&logo=leetcode" /></a>
 </p>
 
+---
 
 ## 🚀About Me
 
