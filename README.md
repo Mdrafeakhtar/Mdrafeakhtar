@@ -1,6 +1,6 @@
-# Hey there, I'm Md Rafe Akhtar 👋
+<h1 align="center">Hey there, I'm Md Rafe Ahtar 👋</h1>
+<p align="center"><strong>Electronics & Communication Engineering Student 🛡️ | Drone & Space Enthusiast 🐞 | GATE 2026 Aspirant 🎯</strong></p>
 
-Student | Drone & Space Enthusiast 
 <p align="center">
   <a href="https://github.com/Mdrafeakhtar"><img src="https://img.shields.io/github/followers/Mdrafeakhtar?label=GitHub&style=social" /></a>
   <a href="https://www.linkedin.com/in/md-rafe-akhtar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" /></a>
