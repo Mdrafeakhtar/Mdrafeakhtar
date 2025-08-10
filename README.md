@@ -6,7 +6,7 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ## 🚀About Me
 
-- 🎓 B.Tech — Electronics & Communication Engineering (IoT specialization), Central University of Jammu (2022–2026)  
+- 🎓 B.Tech — Electronics & Communication Engineering , Central University of Jammu (2022–2026)  
 - 🤖 Passionate about AI/ML, UAV systems, IoT protocols, and space technology  
 - 💡 Experienced in deep learning, drone technology, and orbital mechanics simulation  
 - 📍 Jammu, J&K 
