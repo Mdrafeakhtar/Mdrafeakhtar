@@ -1,6 +1,6 @@
 # Hey there, I'm Md Rafe Akhtar 👋
 
-ECE (IoT Specialization) Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
+Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ---
 
