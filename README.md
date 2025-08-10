@@ -6,8 +6,6 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
   <a href="https://www.linkedin.com/in/md-rafe-akhtar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" /></a>
   <a href="https://leetcode.com/u/mdrafeakhtar/"><img src="https://img.shields.io/badge/Leetcode-Red?style=social&logo=leetcode" /></a>
 </p>
----
-
 ## 🚀About Me
 
 - 🎓 B.Tech — Electronics & Communication Engineering , Central University of Jammu (2022–2026)  
