@@ -58,12 +58,6 @@ ECE (IoT Specialization) Student | Drone & Space Enthusiast | AI/ML Developer | 
 
 ---
 
-## TryHackMe / CTF Progress
-
-![TryHackMe Stats](https://tryhackme-badges.com/badges/@mdrafeakhtar.svg)
-
----
-
 ## Roadmap / Goals
 
 - Build a production-ready AI/ML security tool
