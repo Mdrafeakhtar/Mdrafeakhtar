@@ -75,4 +75,4 @@ Student | Drone & Space Enthusiast | AI/ML Developer | Open-Source Builder
 
 ---
 
-> "Security isn't just a goal. It's a lifestyle." — *Md Rafe Akhtar*
+> "Designing intelligent systems that fly, connect, and adapt." — *Md Rafe Akhtar*
