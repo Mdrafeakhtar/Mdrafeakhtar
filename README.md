@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Md Rafe Ahtar 👋</h1>
+<h1 align="center">Hey there, I'm Md Rafe Akhtar 👋</h1>
 <p align="center"><strong> 🎓Electronics & Communication Engineering Student  | 🛸 Drone & Space Enthusiast  |  🎯GATE 2026 Aspirant </strong></p>
 
 <p align="center">
